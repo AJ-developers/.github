@@ -1,9 +1,9 @@
-## Hi there 👋, we are AJ Developers
+## Hi there 👋, we are AJ Developers!
 
 * 💬 Our Discord: https://discord.gg/
 * ⚒️ Our works: 
 
-## Our team
+## 🔥 Our team
 
 <table>
   <tr>
@@ -12,10 +12,10 @@
   </tr>
 </table>
 
-## Contributors
+## ✨ Contributors
 
 - Nobody for the moment why not you ?
 
 **How to contibute ?**
 
-> To contribute you can: report major bug or improve translations
+> To contribute you can: report major bug or improve translations..
