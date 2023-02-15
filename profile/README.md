@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ach-git"><img src="" width="200px;" alt="https://avatars.githubusercontent.com/u/82474261?v=4"/><br /><sub><b>Ach</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ach-git"><img src="https://avatars.githubusercontent.com/u/82474261?v=4" width="200px;" alt=""/><br /><sub><b>Ach</b></sub></a></td>
     <td align="center"><a href="https://github.com/jetfilou"><img src="https://avatars.githubusercontent.com/u/59403633?v=4" width="200px;" alt=""/><br /><sub><b>Jetfilou</b></sub></a></td>
   </tr>
 </table>
