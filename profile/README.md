@@ -14,7 +14,7 @@
 
 ## ✨ Contributors
 
-- Nobody for the moment why not you ?
+- Nobody for the moment, why not you ? :)
 
 **How to contibute ?**
 
